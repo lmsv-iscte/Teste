@@ -10,6 +10,7 @@ package battleship;
 public class Caravel extends Ship {
 	//ghkkkililkioo
 	//hhuu
+	//
 	private static final int SIZE = 2;
 	private static final String NAME = "Caravela";
 	
