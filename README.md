@@ -1,4 +1,7 @@
-# BattleshipCodeCoverage
+# Battleship Example
+
+## Generate the JUnit battery
+
 Battleship game
 
 This Java code aims to support ES1 lecture about white-box testing and code coverage.
